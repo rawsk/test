@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hoge
-=======
-develop
-develop
->>>>>>> b312b28... test
+test
